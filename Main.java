@@ -22,5 +22,7 @@ public class Main {
       System.out.println(operand1 + " / " + operand2 + " = " + (operand1 / operand2));
       System.out.println(operand1 + " % " + operand2 + " = " + (operand1 % operand2));
 
+      System.out.println("I am trying to understand Git and Github so I want to see how this change will work/affect my reposiroty data");
+
   }
 }
